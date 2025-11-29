@@ -74,7 +74,7 @@ Follow these steps to run the program:
 
 ### **Main Menu – Instructions**
 
-![Main Menu](Screenshot%202025-11-28%20084722.png)
+![Main Menu](Screenshot%202025-11-28%20085513.png)
 
 ## **Story One – Sample Parts**
 
