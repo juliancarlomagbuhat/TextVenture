@@ -102,9 +102,11 @@ To take TextVenture to a new level, here are potential improvements:
 
 ## 🙏 Acknowledgement
 
-- To Almighty God, for giving the developers knowledge, wisdom, and courage to have the strength to develop the system.
-- To Sir Emman, for his unwavering support, guidance, and encouragement for the development of the system.
-- To our family and friends, for their continuous support, patience, and motivation. Their words of encouragement and understanding pushed us to persevere and finish this project.
+To Almighty God, for giving the developers knowledge, wisdom, and courage to have the strength to develop the system.
+
+To Sir Emman, for his unwavering support, guidance, and encouragement for the development of the system.
+
+To our family and friends, for their continuous support, patience, and motivation. Their words of encouragement and understanding pushed us to persevere and finish this project.
 
 ---
 
@@ -112,17 +114,17 @@ To take TextVenture to a new level, here are potential improvements:
 
 | **De Gracia, Niela Alena** |
 |----------------------------|
-| A BS Computer Science student at Batangas State University – The National Engineering University. Passionate about learning new skills, taking challenges, and staying active in sports. She values flexibility, determination, and meaningful contribution. |
+|She is a BS Computer Science student at Batangas State University – The National Engineering University. She enjoys learning new skills, trying new challenges, and staying active in sports. Known for her flexibility and determination, she always aims to grow and contribute meaningfully. |
 | https://github.com/nielaalena |
 
 | **Labrador, Matthew Louis** |
 |-----------------------------|
-| A creative individual who enjoys building things, discovering new ideas, and improving through practice. |
+| He is a BS Computer Science student at Batangas State University - The National Engineering University. Not the best, not the worst — just someone who loves creating things and getting better along the way. |
 | https://github.com/Artemissssssss |
 
 | **Magbuhat, Julian Carlo** |
 |----------------------------|
-| A BS Computer Science student at Batangas State University – The National Engineering University. He is passionate about technology, videography, gaming, and software development. |
+| He is a Computer Science student at Batangas State University - The Nation Engineering University. He enjoys exploring creative ways and is always eager to learn new skills. In addition to his academic pursuit, he is interested in gaming, videography and applications of computer science.  |
 |https://github.com/juliancarlomagbuhat |
 
 ---
