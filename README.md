@@ -22,11 +22,6 @@ Every decision leads to different scenarios, encouraging:
 
 ---
 
-## 🗂 Version  
-**1.0**
-
----
-
 ## 🧩 OOP Concepts Applied
 
 ### **Encapsulation**
@@ -100,16 +95,6 @@ To take TextVenture to a new level, here are potential improvements:
 
 ---
 
-## 🙏 Acknowledgement
-
-To Almighty God, for giving the developers knowledge, wisdom, and courage to have the strength to develop the system.
-
-To Sir Emman, for his unwavering support, guidance, and encouragement for the development of the system.
-
-To our family and friends, for their continuous support, patience, and motivation. Their words of encouragement and understanding pushed us to persevere and finish this project.
-
----
-
 ## 👥 About Us
 
 | **De Gracia, Niela Alena** |
@@ -129,3 +114,12 @@ To our family and friends, for their continuous support, patience, and motivatio
 
 ---
 
+## 🙏 Acknowledgement
+
+To Almighty God, for giving the developers knowledge, wisdom, and courage to have the strength to develop the system.
+
+To Sir Emman, for his unwavering support, guidance, and encouragement for the development of the system.
+
+To our family and friends, for their continuous support, patience, and motivation. Their words of encouragement and understanding pushed us to persevere and finish this project.
+
+---
