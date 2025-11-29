@@ -76,15 +76,15 @@ Follow these steps to run the program:
 
 ![Main Menu](Screenshot%202025-11-28%20084722.png)
 
-### **Story One – Sample Parts**
+## **Story One – Sample Parts**
 
-## Story Begin
+### Story Begin
 ![Story](Screenshot%202025-11-28%20085149.png)
 
-## Choices
+### Choices
 ![Choices](Screenshot%202025-11-28%20085218.png)
 
-## Story Ending
+### Story Ending
 ![Story Part](Screenshot%202025-11-28%20085255.png)
 
 ---
